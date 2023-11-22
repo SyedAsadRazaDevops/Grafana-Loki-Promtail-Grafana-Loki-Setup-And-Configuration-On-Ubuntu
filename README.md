@@ -125,3 +125,6 @@ sudo ufw allow 9080/tcp
 sudo ufw status 
 sudo ufw reload
 ```
+
+
+https://www.youtube.com/watch?v=iqpLXUdJ0Ro
